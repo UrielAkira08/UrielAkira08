@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Uriel Akira
 
-<!--
-**UrielAkira08/UrielAkira08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Teología** y desarrollador, con interés en:
 
-Here are some ideas to get you started:
+- 🌱 Desarrollo web con **React, Node.js, pnpm, Docker**
+- ✨ Diseño y frontend con **Tailwind CSS + VSCode**
+- 📚 Integración de teología, tecnología y proyectos comunitarios
+- 🚀 Actualmente trabajando en **MyReactLearningUrielAkira**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack principal
+- **Frontend**: React, Tailwind, Vite
+- **Backend**: Node.js, Fastify/Express, Prisma
+- **Base de datos**: PostgreSQL / MySQL
+- **Infraestructura**: Docker
+- **Control de versiones**: Git + GitHub Actions (CI/CD)
+
+## 📌 Proyectos destacados
+- [MyReactLearningUrielAkira](https://github.com/UrielAkira08/MyReactLearningUrielAkira) – roadmap de aprendizaje fullstack
+- (futuros proyectos…)
+
+---
+💬 Me puedes encontrar en GitHub: [@UrielAkira08](https://github.com/UrielAkira08)
