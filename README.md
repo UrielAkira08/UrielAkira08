@@ -15,8 +15,6 @@ Soy estudiante de **Teología** y desarrollador, con interés en:
 - **Control de versiones**: Git + GitHub Actions (CI/CD)
 
 ## 📌 Proyectos destacados
-- [MyReactLearningUrielAkira](https://github.com/UrielAkira08/MyReactLearningUrielAkira) – roadmap de aprendizaje fullstack
-- (futuros proyectos…)
-
+- 
 ---
 💬 Me puedes encontrar en GitHub: [@UrielAkira08](https://github.com/UrielAkira08)
